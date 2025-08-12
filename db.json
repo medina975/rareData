@@ -1,102 +1,1083 @@
 {
-  "transactions": [
+  "rareProducts": [
     {
       "id": 1,
-      "date": "2019-12-01",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "category": "face",
+      "products": [
+        {
+          "name": "Soft Pinch Liquid Blush",
+          "video": "blushVideo.mp4",
+          "detailsText1": "A viral bestseller for a reason. This weightless liquid blush delivers high-impact color with just one dot, blending seamlessly for a pinch-perfect flush that lasts up to 12 hours.",
+          "detailsText2": "Airy and lightweight, this liquid formula blends and builds effortlessly—whether you want a soft, natural flush or a bold pop of color.\n\nFeaturing pure color pigments mixed in a weightless, transparent base for true color payoff that flatters all skin tones.\n\nLong-lasting and ultra-pigmented, just one dot gives high-impact color that stays put all day. A little goes a long way!\n\nMistake-proof and seamless, it layers beautifully over liquid or powder formulas without disturbing makeup.\n\nAvailable in matte and dewy finishes, this silky formula is infused with a botanical blend of skin-loving ingredients to calm and nourish skin.\n\nAvailable in 13 shades.\nBliss – nude pink (matte)\nLove – terracotta (matte)\nGrace – bright rose mauve (matte)\nFaith – deep berry (matte)\nJoy – muted peach (dewy)\nHappy – cool pink (dewy)\nLucky – hot pink (dewy)\nGrateful – true red (dewy)\nHope – nude mauve (dewy)\nEncourage – soft neutral pink (dewy)\nBelieve – true mauve (dewy)\nWorth – true rose (dewy)\nVirtue – beige peach (dewy)\n\nReal results:\n• 100% said it applies easily and wears evenly\n• 100% said the texture is silky and glides on smoothly\n• 100% said it stays in place upon application and is comfortable to wear\n• 97% said the color blends seamlessly",
+          "people": "detailsPeopleBlush.webp",
+          "price": 25,
+          "bestSellers": true,
+          "detailsImage": "detailsBlushImage.webp",
+          "selenaLoves": "“There’s nothing like a soft hint of blush to add dimension and color to your look.”",
+          "shades": [
+            {
+              "name": "Grateful",
+              "shadeImage": "blushShade1.avif",
+              "bestSellers": true,
+              "productImages": [
+                "grateImage1.webp",
+                "grateImage2.webp",
+                "grateImage3.webp"
+              ]
+            },
+            {
+              "name": "Happy",
+              "shadeImage": "blushShade2.avif",
+              "bestSellers": false,
+              "productImages": [
+                "happyImage1.webp",
+                "happyImage2.webp",
+                "happyImage3.webp"
+              ]
+            },
+            {
+              "name": "Joy",
+              "shadeImage": "blushShade3.avif",
+              "bestSellers": true,
+              "productImages": [
+                "joyImage1.webp",
+                "joyImage2.webp",
+                "joyImage3.webp"
+              ]
+            },
+            {
+              "name": "Lucky",
+              "shadeImage": "blushShade4.avif",
+              "bestSellers": false,
+              "productImages": [
+                "luckyImage1.webp",
+                "luckyImage2.webp",
+                "luckyImage3.webp"
+              ]
+            },
+            {
+              "name": "Bliss",
+              "shadeImage": "blushShade5.avif",
+              "bestSellers": false,
+              "productImages": [
+                "blissImage1.webp",
+                "blissImage2.webp",
+                "blissImage3.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Soft Pinch Matte Bouncy Blush",
+          "video": "",
+          "detailsText1": "A cushiony cream-to-powder blush that gives the dreamiest flush of color with a lasting, blurred matte finish. ",
+          "detailsText2": "Bouncy, buildable putty blends like cream, blurs like powder. You have to feel it to believe it.\n\nGives cheeks an airy, cloud-like flush that looks like a dream, with the most weightless, natural matte finish that won’t settle into creases, emphasize skin texture, or dry you out.\n\nEasy to apply and layer. Wear it bright and bold or blended for a softer effect.\n\nWater-, sweat-, and humidity-resistant for serious staying power that won’t transfer or smudge.\n\nEnriched with cacao seed and a nourishing blend of pomegranate, papaya seed, and rose hip oils to keep skin hydrated.\n\nChoose from 7 shades:\nHope – nude mauve\nHappy – cool pink\nWorth – true rose\nGrateful – soft red\nAlive – bright coral orange\nThriving – bright raspberry\nTruth – soft plum\n\nReal Results:\n+ 100% said it blends seamlessly & doesn’t drag upon application\n+ 100% said it instantly blurs skin\n+ 100% said it doesn’t settle into creases or emphasize skin texture\n+ 100% said it layers well over makeup\n+ 100% said it’s sweat- & humidity-resistant",
+          "people": "detailsPeopleMatte.webp",
+          "price": 27,
+          "detailsImage": "detailsMatteImage.webp",
+          "selenaLoves": "“There’s nothing like a soft hint of matte blush to add dimension and color to your look.”",
+          "shades": [
+            {
+              "name": "Hope",
+              "shadeImage": "matteShade1.avif",
+              "bestSellers": false,
+              "productImages": [
+                "matteHope1.webp",
+                "matteHope2.webp",
+                "matteHope3.webp",
+                "matteHope4.webp"
+              ]
+            },
+            {
+              "name": "Happy",
+              "shadeImage": "matteShade2.avif",
+              "bestSellers": true,
+              "productImages": [
+                "matteHappy1.webp",
+                "matteHappy2.webp",
+                "matteHappy3.webp",
+                "matteHappy4.webp"
+              ]
+            },
+            {
+              "name": "Worth",
+              "shadeImage": "matteShade3.avif",
+              "bestSellers": false,
+              "productImages": [
+                "matteWorth1.webp",
+                "matteWorth2.webp",
+                "matteWorth3.webp",
+                "matteWorth4.webp"
+              ]
+            },
+            {
+              "name": "Alive",
+              "shadeImage": "matteShade4.avif",
+              "bestSellers": false,
+              "productImages": [
+                "matteAlive1.webp",
+                "matteAlive2.webp",
+                "matteAlive3.webp",
+                "matteAlive4.webp"
+              ]
+            },
+            {
+              "name": "Grateful",
+              "shadeImage": "matteShade5.avif",
+              "bestSellers": false,
+              "productImages": [
+                "matteGrate1.webp",
+                "matteGrate2.webp",
+                "matteGrate3.webp",
+                "matteGrate4.webp",
+                "matteGrate5.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Soft Pinch Liquid Contour",
+          "video": "",
+          "detailsText1": "A weightless, easy-to-blend liquid contour that defines and enhances your fave features for a naturally lifted look that lasts. Just dot, blend, and you’re done.",
+          "detailsText2": "Soft Pinch Liquid Blush, but make it contour. We took the same airy, blendable goodness that you love so much and put it into an easy-to-use liquid contour.\n\nInstantly enhance, add dimension, and play up your fave features with the look of real shadows. The result? A naturally sculpted look that’s never muddy, cakey, patchy, or greasy.\n\nThe buildable, streak-free formula blends evenly and seamlessly, layering beautifully under and over makeup.\n\nPacked with long-lasting pigments for all-day wear that won’t fade—one dot really goes a long way.\n\nChoose from 7 shadow-like shades created for a range of skin tones:\nGentle – fair (cool taupe)\nMellow – light (cool brown)\nSolace – medium (cool taupe)\nSerene – medium (brown)\nTranquil – medium deep (cool brown)\nPeaceful – deep (neutral brown)\nSublime – deep (cool brown)\n\nReal Results:\n+ 100% said it doesn’t disturb makeup underneath\n+ 98% said it layers well under & over makeup\n+ 98% said it glides on smoothly & the applicator makes it easy to apply\n+ 96% said the formula is pigmented—a little goes a long way\n+ 96% said it never looks cakey",
+          "people": "detailsPeopleContour.webp",
+          "price": 30,
+          "detailsImage": "detailsContourImage.webp",
+          "selenaLoves": "“There’s nothing like a soft hint of contour to add dimension and color to your look.”",
+          "shades": [
+            {
+              "name": "Gentle",
+              "shadeImage": "contourShade1.avif",
+              "bestSellers": false,
+              "productImages": [
+                "contourGentle1.webp",
+                "contourGentle2.webp",
+                "contourGentle3.webp",
+                "contourGentle4.webp"
+              ]
+            },
+            {
+              "name": "Mellow",
+              "shadeImage": "contourShade2.avif",
+              "bestSellers": false,
+              "productImages": [
+                "contourMellow1.webp",
+                "contourMellow2.webp",
+                "contourMellow3.webp",
+                "contourMellow4.webp"
+              ]
+            },
+            {
+              "name": "Solace",
+              "shadeImage": "contourShade3.avif",
+              "bestSellers": false,
+              "productImages": [
+                "contourSolace1.webp",
+                "contourSolace2.webp",
+                "contourSolace3.webp",
+                "contourSolace4.webp"
+              ]
+            },
+            {
+              "name": "Serene",
+              "shadeImage": "contourShade4.avif",
+              "bestSellers": false,
+              "productImages": [
+                "contourSerene1.webp",
+                "contourSerene2.webp",
+                "contourSerene3.webp",
+                "contourSerene4.webp"
+              ]
+            },
+            {
+              "name": "Tranquil",
+              "shadeImage": "contourShade5.avif",
+              "bestSellers": false,
+              "productImages": [
+                "contourTran1.webp",
+                "contourTran2.webp",
+                "contourTran3.webp",
+                "contourTran4.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Positive Light Liquid Luminizer",
+          "video": "luminizerVideo.mp4",
+          "detailsText1": "Good news—our fan-fave liquid highlighter fam is growing, with two NEW shades: Exhilarate (champagne gold) and Reveal (copper).  Create an instantly dewy, buildable glow while nourishing skin so it looks on the bright side all day.",
+          "detailsText2": "Silky, second-skin formula blends evenly for an instant wash of light that looks good on all skin tones\n\nSuperfine, light-catching pearls make it easy to take your glow from soft sheen to pure pop in seconds\n\nLasts all day without fading, creasing, or settling into fine lines\n\nLayers well over makeup—liquids, powders, creams—without disturbing what's already there\n\nChoose from 10 glowing shades:\nEnlighten – cool champagne\nEnchant - soft pink\nMesmerize - rose bronze\nOutshine - true gold\nTranscend - rose gold\nFlaunt – true gold\nCaptivate - copper\nReflect - deep bronze\nExhilarate – champagne gold (NEW)\nReveal - warm copper (NEW)",
+          "people": "detailsPeopleLuminizer.webp",
+          "price": 28,
+          "detailsImage": "detailsLuminizerImage.webp",
+          "selenaLoves": "It layers well with all formulas – liquid, powder, or cream. It's so versatile!",
+          "shades": [
+            {
+              "name": "Exhilarate",
+              "shadeImage": "luminizerShade1.avif",
+              "bestSellers": true,
+              "productImages": [
+                "luminizerEx1.webp",
+                "luminizerEx2.webp",
+                "luminizerEx3.webp",
+                "luminizerEx4.webp"
+              ]
+            },
+            {
+              "name": "Reveal",
+              "shadeImage": "luminizerShade2.avif",
+              "bestSellers": false,
+              "productImages": [
+                "luminizerReveal1.webp",
+                "luminizerReveal2.webp",
+                "luminizerReveal3.webp",
+                "luminizerReveal4.webp"
+              ]
+            },
+            {
+              "name": "Captivate",
+              "shadeImage": "luminizerShade3.avif",
+              "bestSellers": false,
+              "productImages": [
+                "luminizerCap1.webp",
+                "luminizerCap2.webp",
+                "luminizerCap3.webp",
+                "luminizerCap4.webp"
+              ]
+            },
+            {
+              "name": "Enchant",
+              "shadeImage": "luminizerShade4.avif",
+              "bestSellers": false,
+              "productImages": [
+                "luminizerEnch1.webp",
+                "luminizerEnch2.webp",
+                "luminizerEnch3.webp",
+                "luminizerEnch4.webp"
+              ]
+            },
+            {
+              "name": "Enlighten",
+              "shadeImage": "luminizerShade5.avif",
+              "bestSellers": false,
+              "productImages": [
+                "luminizerEnlig1.webp",
+                "luminizerEnlig2.webp",
+                "luminizerEnlig3.webp",
+                "luminizerEnlig4.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Liquid Touch Brightening Concealer",
+          "video": "",
+          "detailsText1": "A lightweight, hydrating concealer that gives you buildable coverage where you need it while brightening skin with a radiant finish.",
+          "detailsText2": "Instantly hides what you want to hide - blemishes, dark circles, redness, fine lines- with medium buildable coverage and a radiant, skin-like finish.\n\nCreamy and hydrating, yet super long-lasting. Sweat-resistant, too.\n\nBlends like a dream to even out skin texture.\n\nWon't cake or settle into fine lines.\n\nReal results:\n• 94% said it doesn’t look ashy, chalky, or flat\n• 92% said it glides on evenly\n• 92% said it gives skin a natural radiant finish\n• 92% said it doesn’t look cakey\n• 90% said it smooths out skin texture and wears evenly",
+          "people": "detailsPeopleConcealer.webp",
+          "price": 26,
+          "detailsImage": "detailsConcealerImage.webp",
+          "selenaLoves": "“It's a quick and easy way to brighten dark areas or hide blemishes.”",
+          "shades": [
+            {
+              "name": "100W",
+              "shadeImage": "concealerShade1.avif",
+              "bestSellers": false,
+              "productImages": [
+                "concealer100W1.webp",
+                "concealer100W2.webp",
+                "concealer100W3.webp",
+                "concealer100W4.webp"
+              ]
+            },
+            {
+              "name": "110N",
+              "shadeImage": "concealerShade2.avif",
+              "bestSellers": false,
+              "productImages": [
+                "concealer110N1.webp",
+                "concealer110N2.webp",
+                "concealer110N3.webp",
+                "concealer110N4.webp"
+              ]
+            },
+            {
+              "name": "120C",
+              "shadeImage": "concealerShade3.avif",
+              "bestSellers": false,
+              "productImages": [
+                "concealer120C1.webp",
+                "concealer120C2.webp",
+                "concealer120C3.webp",
+                "concealer120C4.webp"
+              ]
+            },
+            {
+              "name": "130N",
+              "shadeImage": "concealerShade4.avif",
+              "bestSellers": false,
+              "productImages": [
+                "concealer130N1.webp",
+                "concealer130N2.webp",
+                "concealer130N3.webp",
+                "concealer130N4.webp"
+              ]
+            },
+            {
+              "name": "140C",
+              "shadeImage": "concealerShade5.avif",
+              "bestSellers": false,
+              "productImages": [
+                "concealer140C1.webp",
+                "concealer140C2.webp",
+                "concealer140C3.webp",
+                "concealer140C4.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Soft Pinch Luminous Powder Blush",
+          "video": "",
+          "detailsText1": "A radiant blush that lights up all skin tones with airy, seamless, and silky color to keep you beaming all day.",
+          "detailsText2": "An easy-to-use hybrid of two award-winning bestsellers: Soft Pinch Liquid Blush and Positive Light Silky Touch Highlighter.\n\nUnexpectedly smooth and incredibly weightless, this airy blush goes on seamlessly for a pinch-perfect flush that seems to radiate from within.\n\nHighly pigmented base is packed with brilliant pearls for natural-looking dimension. No flaking, caking, or fall out.\n\nEasy to blend, build color, or diffuse for a softer effect—without ever looking chalky or ashy.\n\nTransfer-proof, smudge-proof, water-resistant formula keeps you blushing all day.\n\nHand-polished, so each powder is as unique as you are.\n\nAvailable in 6 shades:\nCheer – light warm pink\nHope – nude mauve\nHappy – cool pink\nJoy – muted peach\nTruth – mauve maroon\nLove – terracotta\n\nNet Wt. 0.098 oz. | 2.8 g\n\nReal results:\n• 99% said it instantly lights up skin with a radiant flush\n• 99% said it applies evenly\n• 97% said its highly pigmented color blends seamlessly\n• 96% said it’s light and airy and doesn't dry out skin\n• 95% said it doesn't cake upon application and doesn't look chalky or ashy",
+          "people": "detailsPeoplePowder.webp",
+          "price": 27,
+          "detailsImage": "detailsPowderImage.webp",
+          "selenaLoves": "“This blush combines Soft Pinch’s weightless color and Positive Light's glassy sheen—the best of both worlds in a single step!”",
+          "shades": [
+            {
+              "name": "Cheer",
+              "shadeImage": "powderShade1.avif",
+              "bestSellers": true,
+              "productImages": [
+                "powderCheer1.webp",
+                "powderCheer2.webp",
+                "powderCheer3.webp",
+                "powderCheer4.webp"
+              ]
+            },
+            {
+              "name": "Hope",
+              "shadeImage": "powderShade2.avif",
+              "bestSellers": true,
+              "productImages": [
+                "powderHope1.webp",
+                "powderHope2.webp",
+                "powderHope3.webp",
+                "powderHope4.webp"
+              ]
+            },
+            {
+              "name": "Happy",
+              "shadeImage": "powderShade3.avif",
+              "bestSellers": false,
+              "productImages": [
+                "powderHappy1.webp",
+                "powderHappy2.webp",
+                "powderHappy3.webp",
+                "powderHappy4.webp"
+              ]
+            },
+            {
+              "name": "Joy",
+              "shadeImage": "powderShade4.avif",
+              "bestSellers": false,
+              "productImages": [
+                "powderJoy1.webp",
+                "powderJoy2.webp",
+                "powderJoy3.webp",
+                "powderJoy4.webp"
+              ]
+            },
+            {
+              "name": "Truth",
+              "shadeImage": "powderShade5.avif",
+              "bestSellers": false,
+              "productImages": [
+                "powderTruth1.webp",
+                "powderTruth2.webp",
+                "powderTruth3.webp",
+                "powderTruth4.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Liquid Touch Weightless Foundation",
+          "video": "",
+          "detailsText1": "An innovative long-lasting foundation that combines the weightless feel of a serum with buildable medium coverage for truly breathable, layerable wear.",
+          "detailsText2": "Weightless, smooth-glide formula dries to a natural, skin-like finish in 48 shades.\n\nPure pigments are packed in a super fluid, serum-like base, making it easier than ever to blend and build your coverage just how you like it—a little really goes a long way.\n\nEvens out skin tone and smooths the look of pores. No clogging or caking.\n\nLasts all day without drying you out or changing color on you.\n\nConvenient, mess-free doe-foot applicator lets you apply 1 dot at a time—all you need to cover your entire face!",
+          "people": "detailsPeopleFoundation.webp",
+          "price": 35,
+          "detailsImage": "detailsFoundationImage.webp",
+          "selenaLoves": "“It just melts onto your skin, so you forget you're wearing anything. ”",
+          "shades": [
+            {
+              "name": "100W",
+              "shadeImage": "foundationShade1.avif",
+              "bestSellers": false,
+              "productImages": [
+                "foundation100W1.webp",
+                "foundation100W2.webp",
+                "foundation100W3.webp",
+                "foundation100W4.webp"
+              ]
+            },
+            {
+              "name": "110N",
+              "shadeImage": "foundationShade2.avif",
+              "bestSellers": false,
+              "productImages": [
+                "foundation110N1.webp",
+                "foundation110N2.webp",
+                "foundation110N3.webp",
+                "foundation110N4.webp"
+              ]
+            },
+            {
+              "name": "120C",
+              "shadeImage": "foundationShade3.avif",
+              "bestSellers": false,
+              "productImages": [
+                "foundation120C1.webp",
+                "foundation120C2.webp",
+                "foundation120C3.webp",
+                "foundation120C4.webp"
+              ]
+            },
+            {
+              "name": "130N",
+              "shadeImage": "foundationShade4.avif",
+              "bestSellers": false,
+              "productImages": [
+                "foundation130N1.webp",
+                "foundation130N2.webp",
+                "foundation130N3.webp",
+                "foundation130N4.webp"
+              ]
+            },
+            {
+              "name": "140C",
+              "shadeImage": "foundationShade5.avif",
+              "bestSellers": false,
+              "productImages": [
+                "foundation140C1.webp",
+                "foundation140C2.webp",
+                "foundation140C3.webp",
+                "foundation140C4.webp"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 2,
-      "date": "2019-12-01",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "category": "fragrance",
+      "products": [
+        {
+          "name": "Rare Eau de Parfum",
+          "video": "",
+          "detailsText1": "Warm and decadent with a touch of spice, Rare Eau de Parfum welcomes you with notes of creamy caramel and pistachio, gives way to an unexpected duality of rich vanilla and spicy ginger, then dries down to an earthy sandalwood. Bright yet deep, familiar yet unexpected, this is a fragrance that evolves with every passing moment, lingering for up to 12 hours.",
+          "detailsText2": "THE SCENT\nWarm, evocative, and unexpected. Rich vanilla meets a hint of spicy ginger for a scent that’s both bright and sensual—never too sweet, always sophisticated. As it lingers, the sandalwood and skin musks reveal new layers over time, making every moment feel rare and unforgettable.\n\nFRAGRANCE FAMILY: Warm & spicy\n\nTHE NOTES\nTOP: Caramel, Pistachio, Pink Pepper\nHEART: Vanilla, Ginger, Cocoa Beans\nDRY: Sandalwood, Tonka Beans, Skin Musks\n\nTHE CRAFTSMANSHIP\nNATURE’S FINEST, SOURCED GLOBALLY\nCrafted in France with ingredients from around the world, each adding its own unique depth and character. Spicy pink pepper from Australia, vibrant ginger from Nigeria, and rich, upcycled cocoa beans from West Africa come together with smooth sandalwood from New Caledonia and warm tonka beans from Venezuela. Like Selena, who finds inspiration everywhere, this fragrance is a celebration of discovery—unexpected and undeniably rare.\n\nTHE BOTTLE\nTHOUGHTFULLY DESIGNED WITH ACCESSIBILITY IN MIND\nTraditional perfumes, with standard pumps and decorative caps, can be challenging for someone with dexterity issues. We partnered with a group of certified hand therapists and a team of packaging engineers to create a luxe, ergonomic fragrance bottle that ensures the most effortless and comfortable dispensing.\n\nREAL RESULTS\n+ 96% say the oversized pump makes it easier to press down on with any part of your hand/body\n+ 95% say the shape of the bottle allows for a more secure grip\n+ 90% say the size of the pump makes it easier to twist and unlock/lock the cap\n+ 90% say the size and shape of the pump allow you to spray fragrance more easily\n\n*In a consumer study of 56 individuals with mild to severe upper extremity impairments\n\nTHE EXPERIENCE\nMADE TO BE CUSTOMIZED\nWear it solo or pair it with our Fragrance Layering Balms for a scent that’s customized to your mood, your moment.",
+          "people": "detailsPeopleParfum.webp",
+          "price": 55,
+          "detailsImage": "detailsParfumImage.webp",
+          "selenaLoves": "“My days are never the same, so I wanted a fragrance that evolves for the moment. Something that could take me from a quiet morning at home to a big night out—and always feels just right.”",
+          "shades": [
+            {
+              "name": "No. 50 mL",
+              "shadeImage": "50 mL",
+              "bestSellers": true,
+              "productImages": [
+                "parfum1.webp",
+                "parfum2.jpg",
+                "parfum3.webp",
+                "parfum4.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rare Eau de Parfum Travel Spray",
+          "video": "",
+          "detailsText1": "A travel-ready version of our warm and decadent fragrance with a touch of spice. Notes of creamy caramel and pistachio give way to an unexpected duality of rich vanilla and spicy ginger, then dries down to an earthy sandalwood. Bright yet deep, familiar yet unexpected, this is a fragrance that evolves with every passing moment, lingering for up to 12 hours.",
+          "detailsText2": "THE SCENT\nWarm, evocative, and unexpected. Rich vanilla meets a hint of spicy ginger for a scent that’s both bright and sensual—never too sweet, always sophisticated. As it lingers, the sandalwood and skin musks reveal new layers over time, making every moment feel rare and unforgettable.\n\nFRAGRANCE FAMILY: Warm & spicy\n\nTHE NOTES\nTOP: Caramel, Pistachio, Pink Pepper\nHEART: Vanilla, Ginger, Cocoa Beans\nDRY: Sandalwood, Tonka Beans, Skin Musks\n\nTHE CRAFTSMANSHIP\nNATURE’S FINEST, SOURCED GLOBALLY\nCrafted in France with ingredients from around the world, each adding its own unique depth and character. Spicy pink pepper from Australia, vibrant ginger from Nigeria, and rich, upcycled cocoa beans from West Africa come together with smooth sandalwood from New Caledonia and warm tonka beans from Venezuela. Like Selena, who finds inspiration everywhere, this fragrance is a celebration of discovery—unexpected and undeniably rare.\n\nREAL RESULTS\n+ 96% say the oversized pump makes it easier to press down on with any part of your hand/body\n+ 95% say the shape of the bottle allows for a more secure grip\n+ 90% say the size of the pump makes it easier to twist and unlock/lock the cap\n+ 90% say the size and shape of the pump allow you to spray fragrance more easily\n\n*In a consumer study of 56 individuals with mild to severe upper extremity impairments\n\nTHE EXPERIENCE\nMADE TO BE CUSTOMIZED\nWear it solo or pair it with our Fragrance Layering Balms for a scent that’s customized to your mood, your moment.",
+          "people": "detailsPeopleSpray.webp",
+          "price": 35,
+          "detailsImage": "detailsSprayImage.webp",
+          "selenaLoves": "“My days are never the same, so I wanted a fragrance that evolves for the moment. Something that could take me from a quiet morning at home to a big night out—and always feels just right.”",
+          "shades": [
+            {
+              "name": "No. 10 mL",
+              "shadeImage": "10 mL",
+              "bestSellers": false,
+              "productImages": [
+                "spray1.webp",
+                "spray2.webp",
+                "spray3.webp",
+                "spray4.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Amber Vanilla Fragrance Layering Balm",
+          "video": "",
+          "detailsText1": "Designed to be worn alone or layered with Rare Eau de Parfum to add a warm, delicious layer, this silky fragrance balm evokes an indulgent moment as it melts into skin and lasts up to 12 hours.",
+          "detailsText2": "Rich, creamy, and comforting. Capture the joy of pure indulgence with an irresistible blend of vanilla, candied amber, and bergamot.\n\nSilky, lightweight texture melts effortlessly with your body heat, leaving a smooth, non-sticky finish.\n\nActs as a perfume enhancer, giving it a new dimension while helping to intensify your fragrance.\n\nCreate your custom scent story by pairing it with Rare Eau de Parfum. Layering combinations:\n\nRare Eau de Parfum + Fragrance Layering Balm in AMBER Vanilla\nTo add a warm, delicious layer\n\nRare Eau de Parfum + Fragrance Layering Balm in FLORAL Peony Blossom\nTo add a sweet, sultry layer\n\nRare Eau de Parfum + Fragrance Layering Balm in FRESH Bergamot\nTo add a bright, breezy layer\n\nRare Eau de Parfum + Fragrance Layering Balm in WOODY Oak\nTo add a rich, earthy layer\n\nHoused in a sleek, pocket-sized tube for ultimate portability.",
+          "people": "detailsPeopleBalm.webp",
+          "price": 28,
+          "detailsImage": "detailsBalmImage.webp",
+          "selenaLoves": "“These layering balms are all about making fragrance fun and personal. I love pairing them with our eau de parfum to match whatever mood I’m in. It completely transforms the way the scent wears and adds dimension in a subtle way.”",
+          "shades": [
+            {
+              "name": "Balm",
+              "shadeImage": "balm",
+              "bestSellers": false,
+              "productImages": [
+                "balm1.webp",
+                "balm2.webp",
+                "balm3.webp",
+                "balm4.webp"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 3,
-      "date": "2019-12-02",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "category": "lip",
+      "products": [
+        {
+          "name": "Positive Light Luminizing Lip Gloss",
+          "video": "",
+          "detailsText1": "A smooth, glassy lip gloss that drips with shimmer and shine while hydrating lips instantly and over time",
+          "detailsText2": "A shimmering wash of color with a glassy finish.\n\nCushiony, hydrating formula glides on smooth, softening and nourishing with pure comfort—zero stick—all day.\n\nRich with light-catching shimmers that are customized in different colors and sizes to complement each shade. The result? A truly multidimensional effect for visibly plumper lips (minus the tingling).\n\nDrenches lips in long-lasting moisture for a replenished pout that looks and feels more hydrated over time.\n\nYummy subtle peach scent.\n\nAvailable in 6 shades:\nDazzle – sheer blue with multicolored shimmer\nBeam – peachy coral with gold and pink pearl\nFlicker – pink with pink and blue pearl\nGlimmer – rose gold with champagne and rose gold pearl\nSpark – midtone brown with rose gold and bronze pearl\nBlaze – deep brown with maroon, gold, and bronze pearl\n\nNet Wt. 0.11 fl. oz. | 3.3 mL\n\nReal results:\n+ 100% said it gives lips a glass-like shine\n+ 100% said lips look and feel instantly hydrated\n+ 100% said lips feel smooth and comfortable\n+ 98% said it replenishes dry lips",
+          "people": "detailsPeopleGloss.webp",
+          "price": 22,
+          "detailsImage": "detailsGlossImage.webp",
+          "selenaLoves": "“I wanted to create a lip gloss that feels really good and has a ton of shimmer. It’s just so fun to wear!”",
+          "shades": [
+            {
+              "name": "Dazzle",
+              "shadeImage": "glossShade1.webp",
+              "bestSellers": true,
+              "productImages": [
+                "glossDazzle1.webp",
+                "glossDazzle2.jpg",
+                "glossDazzle3.jpg",
+                "glossDazzle4.webp"
+              ]
+            },
+            {
+              "name": "Beam",
+              "shadeImage": "glossShade2.avif",
+              "bestSellers": false,
+              "productImages": [
+                "glossBeam1.webp",
+                "glossBeam2.webp",
+                "glossBeam3.jpg",
+                "glossBeam4.webp"
+              ]
+            },
+            {
+              "name": "Flicker",
+              "shadeImage": "glossShade3.avif",
+              "bestSellers": false,
+              "productImages": [
+                "glossFlicker1.webp",
+                "glossFlicker2.jpg",
+                "glossFlicker3.jpg",
+                "glossFlicker4.webp"
+              ]
+            },
+            {
+              "name": "Glimmer",
+              "shadeImage": "glossShade4.webp",
+              "bestSellers": false,
+              "productImages": [
+                "glossGlimmer1.webp",
+                "glossGlimmer2.webp",
+                "glossGlimmer3.webp",
+                "glossGlimmer4.jpg"
+              ]
+            },
+            {
+              "name": "Spark",
+              "shadeImage": "glossShade5.avif",
+              "bestSellers": false,
+              "productImages": [
+                "glossSpark1.webp",
+                "glossSpark2.webp",
+                "glossSpark3.jpg",
+                "glossSpark4.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kind Words Matte Lip Liner",
+          "video": "",
+          "detailsText1": "A super creamy, waterproof lip liner that glides on like a balm to define and shape lips with rich, stay-put color. Available in the same 11 made-to-match shades as Kind Words Matte Lipstick—including NEW shade Devoted.",
+          "detailsText2": "Incredibly smooth, balm-like glide applies evenly—no skipping or tugging!—perfect for outlining lips or coloring them in.\n\nInstantly defines and shapes lips with comfortable, high-pigment color and a soft matte finish.\n\nLong-lasting, waterproof formula not only stays put all day without smudging—it helps keep your lipstick in place, too!\n\nLightweight and non-drying so lips stay soft and supple.\n\nComplete with a built-in sharpener.\n\nAvailable in the same 11 made-to-match shades as Kind Words Matte Lipstick\nTalented - true neutral beige\nCreative - muted peach\nLively - rose pink\nWorthy - muted mauve\nHumble - rose mauve\nFun - neutral mauve\nWise - warm brown nude\nBold - deep berry rose\nGifted - deep dusty plum\nStrong - rich chocolate brown\nDevoted - true red\n\nNet Wt. 0.014oz | 0.4g\n\nReal results:\n+ 100% said it draws smooth, even lines\n+ 100% said it easily contours & fills in lips\n+ 100% said lips don’t feel dry & that it’s comfortable to wear\n+ 100% said it helps prevent lipstick from feathering/bleeding\n+ 98% said it helps lipstick stay in place\n+ 96% said it doesn’t skip or tug during application",
+          "people": "detailsPeopleLipLiner.webp",
+          "price": 18,
+          "detailsImage": "detailsLipLinerImage.webp",
+          "selenaLoves": "“This is everything I’ve ever wanted in a lip liner. Super smooth and doesn’t tug on your lips, and made to last all day without feeling sticky.”",
+          "shades": [
+            {
+              "name": "Talented",
+              "shadeImage": "lipLinerShade1.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipLinerTalented1.webp",
+                "lipLinerTalented2.webp",
+                "lipLinerTalented3.webp",
+                "lipLinerTalented4.webp"
+              ]
+            },
+            {
+              "name": "Creative",
+              "shadeImage": "lipLinerShade2.avif",
+              "bestSellers": true,
+              "productImages": [
+                "lipLinerCreative1.webp",
+                "lipLinerCreative2.webp",
+                "lipLinerCreative3.webp",
+                "lipLinerCreative4.webp"
+              ]
+            },
+            {
+              "name": "Lively",
+              "shadeImage": "lipLinerShade3.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipLinerLively1.webp",
+                "lipLinerLively2.webp",
+                "lipLinerLively3.webp",
+                "lipLinerLively4.webp"
+              ]
+            },
+            {
+              "name": "Worthy",
+              "shadeImage": "lipLinerShade4.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipLinerWorthy1.webp",
+                "lipLinerWorthy2.webp",
+                "lipLinerWorthy3.webp",
+                "lipLinerWorthy4.webp"
+              ]
+            },
+            {
+              "name": "Humble",
+              "shadeImage": "lipLinerShade5.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipLinerHumble1.webp",
+                "lipLinerHumble2.webp",
+                "lipLinerHumble3.webp",
+                "lipLinerHumble4.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Soft Pinch Tinted Lip Oil",
+          "video": "",
+          "detailsText1": "An innovative lip jelly that transforms into a lightweight oil. Starts off glossy, then leaves lips tinted while gently plumping and staying comfortable—never sticky—all day.",
+          "detailsText2": "Treat lips to more love—this unique gel formula transforms on contact into a tinted oil for the comfiest kiss of color and shine your lips have ever felt.\n\nNever sticky and loves to be layered! Give it one swipe for a slick wash of color, or layer up for a bold, juicy pop.\n\nMade with jojoba and sunflower seed oil, it instantly hydrates and nourishes for soft, smooth lips that feel moisturized all day.\n\nGently plumps lips for a fuller, healthier-looking pout in seconds.\n\nFlat, angled doe-foot applicator for easy swipe & go application.\n\nAvailable in 8 shades:\nSerenity – warm rose\nAffection – muted berry\nHappy – cool pink\nJoy – muted peach\nDelight – rose brown\nHope – nude mauve\nWonder – rose mauve\nHonesty – nude brown\n\nNet Wt. 0.10 fl. oz. | 3.0 mL\n\nReal results:\n+ 100% said lips look smooth & healthy with improved texture\n+ 100% said lips feel moisturized & comfortable all day\n+ 100% said it feels lightweight & refreshing without any stickiness\n+ 98% said it minimizes the look of lip lines",
+          "people": "detailsPeopleLipOil.webp",
+          "price": 20,
+          "detailsImage": "detailsLipOilImage.webp",
+          "selenaLoves": "“One swipe and your lips look so full and smooth! I love how easily you can build up the color without it getting sticky.”",
+          "shades": [
+            {
+              "name": "Serenity",
+              "shadeImage": "lipOilShade1.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipOilSerenity1.webp",
+                "lipOilSerenity2.webp",
+                "lipOilSerenity3.webp"
+              ]
+            },
+            {
+              "name": "Affection",
+              "shadeImage": "lipOilShade2.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipOilAffection1.webp",
+                "lipOilAffection2.webp",
+                "lipOilAffection3.jpg",
+                "lipOilAffection4.webp"
+              ]
+            },
+            {
+              "name": "Happy",
+              "shadeImage": "lipOilShade3.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipOilHappy1.webp",
+                "lipOilHappy2.webp",
+                "lipOilHappy3.webp",
+                "lipOilHappy4.jpg"
+              ]
+            },
+            {
+              "name": "Joy",
+              "shadeImage": "lipOilShade4.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipOilJoy1.webp",
+                "lipOilJoy2.webp",
+                "lipOilJoy3.webp",
+                "lipOilJoy4.webp"
+              ]
+            },
+            {
+              "name": "Delight",
+              "shadeImage": "lipOilShade5.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipOilDelight1.webp",
+                "lipOilDelight2.webp",
+                "lipOilDelight3.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Stay Vulnerable Glossy Lip Balm",
+          "video": "",
+          "detailsText1": "Like a lip mask in a gloss, this ultra shiny balm cushions lips with soft, nourishing color that’s all slick, no stick. Now in a NEW, limited-edition shade Nearly Petal.",
+          "detailsText2": "Cushions like a balm, shines like a gloss.\n\nSuper smooth formula wraps lips in long-lasting hydration with a hint of color and shine for plump, healthy-looking lips.\n\nRichly nourishing yet feels incredibly weightless and comfortable—never sticky!\n\nImproves lips’ texture while keeping them soft and moisturized all day.\n\nAvailable in shades:\nNearly Petal - soft pale pink (NEW)\nNearly Neutral – soft neutral pink\nNearly Rose – flushed pink\nNearly Berry – soft berry\nNearly Mauve – soft mauve\nNearly Apricot – soft coral\n\nNet Wt. 0.12 fl. oz | 3.8 mL\n\nReal results:\n• 100% said it glides on smooth, even, and feels weightless on lips\n• 98% said lips feel nourished & moisturized\n• 96% said lips look healthy\n• 96% said lips feel soothed, conditioned, & comfortable\n• 94% said lips feel soft, with improved texture",
+          "people": "detailsPeopleLipBalm.webp",
+          "price": 19,
+          "detailsImage": "detailsLipBalmImage.webp",
+          "selenaLoves": "“I love that it’s like a cushiony balm and also gives a beautiful hint of color with a lot of shine.”",
+          "shades": [
+            {
+              "name": "Nearly Neutral",
+              "shadeImage": "lipBalmShade1.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipBalmNeutral1.webp",
+                "lipBalmNeutral2.webp",
+                "lipBalmNeutral3.webp",
+                "lipBalmNeutral4.webp"
+              ]
+            },
+            {
+              "name": "Nearly Rose",
+              "shadeImage": "lipBalmShade2.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipBalmRose1.webp",
+                "lipBalmRose2.webp",
+                "lipBalmRose3.webp",
+                "lipBalmRose4.webp"
+              ]
+            },
+            {
+              "name": "Nearly Berry",
+              "shadeImage": "lipBalmShade3.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipBalmBerry1.webp",
+                "lipBalmBerry2.webp",
+                "lipBalmBerry3.webp",
+                "lipBalmBerry4.webp"
+              ]
+            },
+            {
+              "name": "Nearly Mauve",
+              "shadeImage": "lipBalmShade4.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipBalmMauve1.webp",
+                "lipBalmMauve2.webp",
+                "lipBalmMauve3.webp",
+                "lipBalmMauve4.webp"
+              ]
+            },
+            {
+              "name": "Nearly Apricot",
+              "shadeImage": "lipBalmShade5.avif",
+              "bestSellers": false,
+              "productImages": [
+                "lipBalmApricot1.webp",
+                "lipBalmApricot2.webp",
+                "lipBalmApricot3.webp",
+                "lipBalmApricot4.webp"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 4,
-      "date": "2019-12-04",
-      "description": "Sunglasses, Urban Outfitters",
-      "category": "Fashion",
-      "amount": -24.99
+      "category": "eye",
+      "products": [
+        {
+          "name": "Brow Harmony Flexible Lifting Gel",
+          "video": "liftingGelVideo.mp4",
+          "detailsText1": "A universal weightless clear brow gel that shapes, lifts, and sets hairs in place with a flexible hold all day.",
+          "detailsText2": "Uplift brows to their full potential. This flexible gel builds easily to sculpt and smooth brows for a brushed up, laminated look that sticks around all day.\n\nWeightless, water-based gel formula ensures a strong yet flexible hold—never stiff, sticky, or crunchy.\n\nPerfect for all brow shades, the clear gel dries to a natural flake- and cake-resistant finish without leaving a trace.\n\nWaterproof formula stands up to sweat and natural oils.\n\nTapered brush made with soft yet firm bristles to evenly comb and coat even the thickest brow hairs from root to tip.",
+          "people": "detailsPeopleLiftingGel.webp",
+          "price": 21,
+          "detailsImage": "detailsLiftingGelImage.webp",
+          "selenaLoves": "“I wanted to create my own version of a laminating gel—something you could reapply and layer without it getting crunchy or stiff. I love that this gel gives you a lifted, laminated look while still feeling soft and flexible like real brow hairs.”",
+          "shades": [
+            {
+              "name": "Lifting Gel",
+              "shadeImage": "Gel",
+              "bestSellers": false,
+              "productImages": [
+                "liftingGel1.webp",
+                "liftingGel2.webp",
+                "liftingGel3.webp",
+                "liftingGel4.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Perfect Strokes Matte Liquid Liner",
+          "video": "liquidLinerVideo.mp4",
+          "detailsText1": "An easy-glide, waterproof liquid eyeliner with up to 800 vegan bristles to lay down long-lasting, ultra-black lines with perfect precision every time.",
+          "detailsText2": "The same rich matte-black color that lasts all day—now with a new and improved brush!\n\nRevamped for smooth ink flow from every angle, every time without leaking or drying out, so you can draw perfect strokes with confidence.\n\nEasy, precise lines, thanks to the fine, flexible brush tip with up to 800 soft vegan bristles.\n\nLong-lasting, waterproof formula won’t fade, feather, or flake on you, so you get that just-applied look all day.",
+          "people": "detailsPeopleLiquidLiner.webp",
+          "price": 20,
+          "detailsImage": "detailsLiquidLinerImage.webp",
+          "selenaLoves": "“ I LOVE a bold winged liner look, and this liner makes it so easy to get it precise.”",
+          "shades": [
+            {
+              "name": "Liquid Liner",
+              "shadeImage": "Liner",
+              "bestSellers": true,
+              "productImages": [
+                "liquidLiner1.webp",
+                "liquidLiner2.webp",
+                "liquidLiner3.webp",
+                "liquidLiner4.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Perfect Strokes Longwear Gel Eyeliner",
+          "video": "",
+          "detailsText1": "An easy-glide, waterproof gel pencil that stays put all day—even on the waterline—with a built-in sharpener for max precision and glide every time.",
+          "detailsText2": "All the pigment + precision + waterproof wear of our bestselling Perfect Strokes Matte Liquid Liner —now in an easy twist-up gel pencil!\n\nSo rich and smooth, it goes on crisp for instant definition that won’t tug or skip, even on the waterline.\n\nStays creamy and blendable for stress-free playtime, so you can smudge it or smoke it out before it sets all day for fadeproof, transferproof wear.\n\nIncludes built-in sharpener for max precision every time. TIP: Only twist up what you need—the pencil doesn’t retract.\n\nComes in 3 shades:\nTrue Black – black\nTrue Brown – brown\nCompassion – burgundy\n\nNet Wt. 0.009 oz. | 0.25 g\n\nReal results:\n+ 100% said it draws precise, even lines & is easy to control\n+ 100% said it applies smoothly & stays put on the waterline\n+ 98% said it’s long-lasting & doesn’t fade or flake all day\n+ 98% said it blends easily to create a smoky eye\n+ 98% said it doesn’t skip upon application",
+          "people": "detailsPeopleEyeliner.webp",
+          "price": 22,
+          "detailsImage": "detailsEyelinerImage.webp",
+          "selenaLoves": "“I love our liquid liner so much, I just had to create a gel version to go with it! I love this pencil for soft definition and tightlining. It lasts all day, even on the waterline.”",
+          "shades": [
+            {
+              "name": "True Black",
+              "shadeImage": "eyelinerShade1.webp",
+              "bestSellers": false,
+              "productImages": [
+                "eyelinerBlack1.webp",
+                "eyelinerBlack2.webp",
+                "eyelinerBlack3.webp",
+                "eyelinerBlack4.webp"
+              ]
+            },
+            {
+              "name": "True Brown",
+              "shadeImage": "eyelinerShade2.avif",
+              "bestSellers": false,
+              "productImages": [
+                "eyelinerBrown1.webp",
+                "eyelinerBrown2.webp",
+                "eyelinerBrown3.webp",
+                "eyelinerBrown4.webp"
+              ]
+            },
+            {
+              "name": "Compassion",
+              "shadeImage": "eyelinerShade3.avif",
+              "bestSellers": false,
+              "productImages": [
+                "eyelinerCompassion1.webp",
+                "eyelinerCompassion2.webp",
+                "eyelinerCompassion3.webp",
+                "eyelinerCompassion4.webp"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 5,
-      "date": "2019-12-06",
-      "description": "Venmo, Alice Pays you for Burrito",
-      "category": "Food",
-      "amount": 8.75
+      "category": "body",
+      "products": [
+        {
+          "name": "Puffy Makeup Bag",
+          "video": "makeUpBagVideo.mp4",
+          "detailsText1": "Introducing a fresh way to find comfort. Store your essentials—makeup and otherwise—in this puffy quilted bag, now in our signature Find Comfort mauve. ",
+          "detailsText2": "Find comfort in the little things with our fan-fave Puffy Makeup bag in a soothing mauve hue, outside and in.\n\nLike a puffy, protective cloud to help keep your favorite things together while on the go.\n\nSoft, lightweight quilted nylon with a smooth-zip top and signature Rare Beauty logo.\n\n8.6” L x 2.4” W x 6.1” H\n\nAvailable only on RareBeauty.com",
+          "people": "makeUpBag1.webp",
+          "price": 20,
+          "detailsImage": "makeUpBag2.jpg",
+          "selenaLoves": "“I love our puffy bag so much, I just had to create a this version to go with it!”",
+          "shades": [
+            {
+              "name": "Puffy MakeUp Bag",
+              "shadeImage": "bag",
+              "bestSellers": false,
+              "productImages": [
+                "makeUpBag1.webp",
+                "makeUpBag2.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Find Comfort Bouncy Body Cream",
+          "video": "",
+          "detailsText1": "A rich, pudding-like body cream that renews skin with a refreshing burst of hydration, restoring bounce and radiance while wrapping you in a bright, peach-floral scent.",
+          "detailsText2": "Bring bounce back to your skin with a burst of hydration that lasts up to 24 hours, leaving skin bright, smooth, more even, and visibly plump.\n\nInnovative bouncy formula soaks in fast for instantly nourished skin without feeling sticky or greasy.\n\nPowered by a blend of plant-derived butters (murumuru and shea), natural oils (jojoba and tsubaki), vitamin E, and niacinamide to soothe and soften.\n\nInfused with our newest Awaken Confidence scent of juicy peaches and fresh flower blossoms.\n\nFragrance notes:\nTop: peach nectar, sparkling lemon, orange flower, black pepper\nHeart: blue cyclamen, jasmine, apricot blossom, lavender\nDry: white sandalwood, skin musk, crisp amber\n\nProudly bottled with 49% post-consumer recycled (PCR) plastic.\n\nNet Wt. 8.45 fl. oz. |250 mL\n\nReal results:\n*In an independent consumer perception test based on 55 people\n\nImmediately after use:\n+ 96% agree their skin looks softer\n\nAfter 2 weeks:\n+ 98% agree their skin looks softer\n\nAfter 4 weeks:\n+ 100% agree their skin feels softer\n+ 100% agree their skin texture appears smooth\n+ 100% agree it reduces visible dryness\n+ 100% agree it leaves their skin looking healthy\n+ 100% agree their skin feels nourished and soothed\n+ 98% agree their skin looks firmer",
+          "people": "detailsPeopleBodyCream.webp",
+          "price": 25,
+          "detailsImage": "detailsBodyCreamImage.webp",
+          "selenaLoves": "“I love this scent so much, it’s so bright and refreshing! I also love the bouncy texture because it’s really comforting on your skin—there’s nothing like it.”",
+          "shades": [
+            {
+              "name": "Bouncy Body Cream",
+              "shadeImage": "body cream",
+              "bestSellers": false,
+              "productImages": [
+                "bodyCream1.webp",
+                "bodyCream2.webp",
+                "bodyCream3.webp",
+                "bodyCream4.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Find Comfort Hydrating Hand Cream",
+          "video": "handCreamVideo.mp4",
+          "detailsText1": "A lightweight, fast-absorbing hand cream packed with skin-loving ingredients to hydrate for up to 16 hours while nourishing and softening skin with a fresh, non-greasy feel.",
+          "detailsText2": "Absorbs quickly to restore moisture into skin so hands feel instantly soft and supple—never greasy or sticky.\n\nInfused with vitamins and antioxidants like niacinamide, peach flower extract, and ashwaganda extract (a natural de-stressor), it delivers rich hydration that actually lasts even after handwashing—while working double time to soften cuticles.\n\nUplifts the senses with a calm, cozy, welcoming scent.\n\nFragrance notes:\nTop: lemon zest, rhubarb, pomelo\nMid: jasmine petals, violet, black tea extract\nDry: vetiver, tonka beans, cashmere wood\n\nLuxe easy-grip bottle with rounded edges and a soft-touch finish.\n\nSmart, spillproof bottle opens and closes in one easy twist, with a cap that stays put so you’ll never lose it! Bottle even doubles as a hand massager to target pressure points for added benefits.\n\nProudly bottled with 74% post-consumer recycled (PCR) plastic.\n\nNet Wt. 1.79 fl. oz. | 53 mL\n\nReal results:\n+ 100% said it noticeably improves the look & feel of skin after just one application\n+ 100% said it improves skin texture & skin feels restored\n+ 100% said skin feels soft, smooth, soothed, & nourished\n+ 100% said it leaves skin with a healthy glow & no sticky residue\n+ 98% said skin feels hydrated even after hand washing",
+          "people": "detailsPeopleHandCream.webp",
+          "price": 18,
+          "detailsImage": "detailsHandCreamImage.webp",
+          "selenaLoves": "“I’m obsessed with this hand cream because it’s rich yet never greasy, and the scent makes me feel calm and relaxed. I also love that it opens in just one twist—you never have to worry about losing the cap.”",
+          "shades": [
+            {
+              "name": "Hydrating Hand Cream",
+              "shadeImage": "hand cream",
+              "bestSellers": false,
+              "productImages": [
+                "handCream1.webp",
+                "handCream2.webp",
+                "handCream3.webp"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 6,
-      "date": "2019-12-06",
-      "description": "Chipotle",
-      "category": "Food",
-      "amount": -17.59
-    },
-    {
-      "id": 7,
-      "date": "2019-12-07",
-      "description": "Birthday Check from Grandma",
-      "category": "Gift",
-      "amount": 50
-    },
-    {
-      "id": 8,
-      "date": "2019-12-09",
-      "description": "Lyft Ride",
-      "category": "Transportation",
-      "amount": -13.25
-    },
-    {
-      "id": 9,
-      "date": "2019-12-11",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
-    },
-    {
-      "id": 10,
-      "date": "2019-12-16",
-      "description": "Tickets, Flatiron Multiplex Cinemas",
-      "category": "Entertainment",
-      "amount": -24
-    },
-    {
-      "id": 11,
-      "date": "2019-12-16",
-      "description": "MTA Vending Machine: MetroCard",
-      "category": "Transportation",
-      "amount": -116.39
-    },
-    {
-      "id": 12,
-      "date": "2019-12-17",
-      "description": "Venmo, Pay Roommate for Rent",
-      "category": "Housing",
-      "amount": -975
-    },
-    {
-      "date": "2022-07-09",
-      "description": "Office lunch",
-      "category": "Food",
-      "amount": "2000",
-      "id": 13
-    },
-    {
-      "date": "2022-07-09",
-      "description": "Office lunch Wednesday",
-      "category": "Food",
-      "amount": "3000",
-      "id": 14
+      "category": "tools",
+      "products": [
+        {
+          "name": "Stay Vulnerable All-Over Eyeshadow Brush",
+          "video": "",
+          "detailsText1": "An eyeshadow brush for easy, all-over blending, with a unique dense, angled shape that mimics your fingertip for max control.",
+          "detailsText2": "Fluffy enough to blend seamlessly yet firm enough to give you control, this uniquely angled brush mimics your fingertip for a quick sweep of color.\n\nSuper soft, densely packed bristles make it easy to pick up and blend out pigment.\n\nDesigned to be paired with Stay Vulnerable Liquid Eyeshadow for the most seamless finish, but great for blending all formulas, especially liquids and creams!",
+          "people": "detailsPeopleEyeshadowBrush.webp",
+          "price": 15,
+          "detailsImage": "detailsEyeshadowBrushImage.webp",
+          "selenaLoves": "“I love that it’s shaped like your finger, so it’s really easy to control. It has a flat side to pack on color, and a full side to blend.”",
+          "shades": [
+            {
+              "name": "Eyeshadow Brush",
+              "shadeImage": "brush",
+              "bestSellers": false,
+              "productImages": [
+                "eyeshadowBrush1.webp",
+                "eyeshadowBrush2.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Liquid Touch Multi-Tasking Sponge",
+          "video": "",
+          "detailsText1": "A plush sponge with a diamond-shaped tip for precise application and customizable coverage.",
+          "detailsText2": "Multifaceted, diamond-shaped sponge is the ultimate multitasker.\n\nDiamond-shaped tip for precise application: Use under eyes, around the nose, and around corners of the mouth.\n\nLarge, flat side blends quickly and seamlessly.\n\nRound bottom edge helps buff, blend, bake, and soften harsh edges.\n\nUltra-soft, water-activated sponge - use wet for an airbrushed finish.",
+          "people": "detailsPeopleSponge.webp",
+          "price": 12,
+          "detailsImage": "detailsSpongeImage.webp",
+          "selenaLoves": "“ This is my go-to applicator- I love that I can use it with any formula. ”",
+          "shades": [
+            {
+              "name": "Multi-tasking Sponge",
+              "shadeImage": "sponge",
+              "bestSellers": false,
+              "productImages": [
+                "sponge1.webp",
+                "sponge2.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Soft Pinch Blush Brush",
+          "video": "",
+          "detailsText1": "A feathery soft blush brush that blends pigment-rich formulas with ease—ideal for applying liquids and creams for a soft, diffused finish.",
+          "detailsText2": "Multi-length, synthetic dual fibers enable you to apply pigment-rich formulas with a sheer touch, blending and building color evenly for a soft, diffused look.\n\nUnique angled brush shape hugs every curve and mimics the bounce of your fingertips, giving you the most controlled application.\n\nSoft, flexible bristles are fluffier at the ends, making it ideal for stippling and swirling out pigmented formulas.\n\nWhile it’s designed to be paired with Soft Pinch Liquid Blush, this brush works great with all liquid and cream formulas.",
+          "people": "detailsPeopleBlushBrush.webp",
+          "price": 14,
+          "detailsImage": "detailsBlushBrushImage.webp",
+          "selenaLoves": "“This soft, feathery brush makes applying our blush and bronzer formulas completely foolproof.”",
+          "shades": [
+            {
+              "name": "Pinch Blush Brush",
+              "shadeImage": "blush brush",
+              "bestSellers": false,
+              "productImages": [
+                "blushBrush1.webp",
+                "blushBrush2.webp"
+              ]
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "slider":[
+  { "id": 1, "image": "slider1.avif", "alt": "Slider1" },
+  { "id": 2, "image": "slider2.avif", "alt": "Slider2" },
+  { "id": 3, "image": "slider3.avif", "alt": "Slider3" },
+  { "id": 4, "image": "slider4.avif", "alt": "Slider4" },
+  { "id": 5, "image": "slider5.avif", "alt": "Slider5" },
+  { "id": 6, "image": "slider6.avif", "alt": "Slider6" },
+  { "id": 7, "image": "slider7.avif", "alt": "Slider7" },
+  { "id": 8, "image": "slider8.avif", "alt": "Slider8" },
+  { "id": 9, "image": "slider9.avif", "alt": "Slider9" },
+  { "id": 10, "image": "slider10.avif", "alt": "Slider10" },
+  { "id": 11, "image": "slider11.avif", "alt": "Slider11" },
+  { "id": 12, "image": "slider12.avif", "alt": "Slider12" },
+  { "id": 13, "image": "slider13.avif", "alt": "Slider13" },
+  { "id": 14, "image": "slider14.avif", "alt": "Slider14" },
+  { "id": 15, "image": "slider15.avif", "alt": "Slider15" },
+  { "id": 16, "image": "slider16.avif", "alt": "Slider16" },
+  { "id": 17, "image": "slider17.avif", "alt": "Slider17" },
+  { "id": 18, "image": "slider18.avif", "alt": "Slider18" },
+  { "id": 19, "image": "slider19.avif", "alt": "Slider19" },
+  { "id": 20, "image": "slider20.avif", "alt": "Slider20" }
+]
 }

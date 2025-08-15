@@ -75,7 +75,7 @@
           "shades": [
             {
               "name": "Hope",
-              "shadeImage": "matteShade1.avif",
+              "shadeImage": "matteShade1.webp",
               "productImages": [
                 "matteHope1.webp",
                 "matteHope2.webp",
@@ -85,7 +85,7 @@
             },
             {
               "name": "Happy",
-              "shadeImage": "matteShade2.avif",
+              "shadeImage": "matteShade2.webp",
               "productImages": [
                 "matteHappy1.webp",
                 "matteHappy2.webp",
@@ -95,7 +95,7 @@
             },
             {
               "name": "Worth",
-              "shadeImage": "matteShade3.avif",
+              "shadeImage": "matteShade3.webp",
               "productImages": [
                 "matteWorth1.webp",
                 "matteWorth2.webp",
@@ -460,7 +460,7 @@
           "shades": [
             {
               "name": "No. 50 mL",
-              "shadeImage": "50 mL",
+              "shadeImage": "",
               "productImages": [
                 "parfum1.webp",
                 "parfum2.jpg",
@@ -483,7 +483,7 @@
           "shades": [
             {
               "name": "No. 10 mL",
-              "shadeImage": "10 mL",
+              "shadeImage": "",
               "productImages": [
                 "spray1.webp",
                 "spray2.webp",
@@ -506,7 +506,7 @@
           "shades": [
             {
               "name": "Balm",
-              "shadeImage": "balm",
+              "shadeImage": "",
               "productImages": [
                 "balm1.webp",
                 "balm2.webp",
@@ -791,7 +791,7 @@
           "shades": [
             {
               "name": "Lifting Gel",
-              "shadeImage": "Gel",
+              "shadeImage": "",
               "productImages": [
                 "liftingGel1.webp",
                 "liftingGel2.webp",
@@ -814,7 +814,7 @@
           "shades": [
             {
               "name": "Liquid Liner",
-              "shadeImage": "Liner",
+              "shadeImage": "",
               "productImages": [
                 "liquidLiner1.webp",
                 "liquidLiner2.webp",
@@ -886,7 +886,7 @@
           "shades": [
             {
               "name": "Puffy MakeUp Bag",
-              "shadeImage": "bag",
+              "shadeImage": "",
               "productImages": [
                 "makeUpBag1.webp",
                 "makeUpBag2.jpg"
@@ -907,7 +907,7 @@
           "shades": [
             {
               "name": "Bouncy Body Cream",
-              "shadeImage": "body cream",
+              "shadeImage": "",
               "productImages": [
                 "bodyCream1.webp",
                 "bodyCream2.webp",
@@ -930,7 +930,7 @@
           "shades": [
             {
               "name": "Hydrating Hand Cream",
-              "shadeImage": "hand cream",
+              "shadeImage": "",
               "productImages": [
                 "handCream1.webp",
                 "handCream2.webp",
@@ -958,7 +958,7 @@
           "shades": [
             {
               "name": "Eyeshadow Brush",
-              "shadeImage": "brush",
+              "shadeImage": "",
               "productImages": [
                 "eyeshadowBrush1.webp",
                 "eyeshadowBrush2.webp"
@@ -979,7 +979,7 @@
           "shades": [
             {
               "name": "Multi-tasking Sponge",
-              "shadeImage": "sponge",
+              "shadeImage": "",
               "productImages": [
                 "sponge1.webp",
                 "sponge2.webp"
@@ -1000,7 +1000,7 @@
           "shades": [
             {
               "name": "Pinch Blush Brush",
-              "shadeImage": "blush brush",
+              "shadeImage": "",
               "productImages": [
                 "blushBrush1.webp",
                 "blushBrush2.webp"

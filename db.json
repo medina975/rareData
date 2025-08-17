@@ -1030,7 +1030,6 @@
   { "id": 16, "image": "slider16.avif", "alt": "Slider16" },
   { "id": 17, "image": "slider17.avif", "alt": "Slider17" },
   { "id": 18, "image": "slider18.avif", "alt": "Slider18" },
-  { "id": 19, "image": "slider19.avif", "alt": "Slider19" },
-  { "id": 20, "image": "slider20.avif", "alt": "Slider20" }
+  { "id": 19, "image": "slider19.avif", "alt": "Slider19" }
 ]
 }

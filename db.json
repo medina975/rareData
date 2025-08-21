@@ -229,7 +229,8 @@
                 "luminizerEx1.webp",
                 "luminizerEx2.webp",
                 "luminizerEx3.webp",
-                "luminizerEx4.webp"
+                "luminizerEx4.webp",
+                "videoImage2.jpg"
               ]
             },
             {
@@ -239,7 +240,8 @@
                 "luminizerReveal1.webp",
                 "luminizerReveal2.webp",
                 "luminizerReveal3.webp",
-                "luminizerReveal4.webp"
+                "luminizerReveal4.webp",
+                "videoImage2.jpg"
               ]
             },
             {
@@ -249,7 +251,8 @@
                 "luminizerCap1.webp",
                 "luminizerCap2.webp",
                 "luminizerCap3.webp",
-                "luminizerCap4.webp"
+                "luminizerCap4.webp",
+                "videoImage2.jpg"
               ]
             },
             {
@@ -259,7 +262,8 @@
                 "luminizerEnch1.webp",
                 "luminizerEnch2.webp",
                 "luminizerEnch3.webp",
-                "luminizerEnch4.webp"
+                "luminizerEnch4.webp",
+                "videoImage2.jpg"
               ]
             },
             {
@@ -269,7 +273,8 @@
                 "luminizerEnlig1.webp",
                 "luminizerEnlig2.webp",
                 "luminizerEnlig3.webp",
-                "luminizerEnlig4.webp"
+                "luminizerEnlig4.webp",
+                "videoImage2.jpg"
               ]
             }
           ]
@@ -862,7 +867,8 @@
                 "liftingGel1.webp",
                 "liftingGel2.webp",
                 "liftingGel3.webp",
-                "liftingGel4.webp"
+                "liftingGel4.webp",
+                "videoImage3.jpg"
               ]
             }
           ]
@@ -889,7 +895,8 @@
                 "liquidLiner1.webp",
                 "liquidLiner2.webp",
                 "liquidLiner3.webp",
-                "liquidLiner4.webp"
+                "liquidLiner4.webp",
+                "videoImage4.jpg"
               ]
             }
           ]
@@ -967,7 +974,8 @@
               "shadeImage": "",
               "productImages": [
                 "makeUpBag1.webp",
-                "makeUpBag2.jpg"
+                "makeUpBag2.jpg",
+                "videoImage5.jpg"
               ]
             }
           ]
@@ -1020,7 +1028,8 @@
               "productImages": [
                 "handCream1.webp",
                 "handCream2.webp",
-                "handCream3.webp"
+                "handCream3.webp",
+                "videoImage6.jpg"
               ]
             }
           ]

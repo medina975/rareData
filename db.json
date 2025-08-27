@@ -442,7 +442,7 @@
               "name": "230N",
               "shadeImage": "foundationShade2.avif",
               "productImages": [
-                "foundation110N1.webp",
+                "foundation230N1.webp",
                 "foundation110N2.webp",
                 "foundation110N3.webp",
                 "foundation110N4.webp"
@@ -452,7 +452,7 @@
               "name": "380W",
               "shadeImage": "foundationShade3.avif",
               "productImages": [
-                "foundation120C1.webp",
+                "foundation380W1.webp",
                 "foundation120C2.webp",
                 "foundation120C3.webp",
                 "foundation120C4.webp"
@@ -462,7 +462,7 @@
               "name": "460W",
               "shadeImage": "foundationShade4.avif",
               "productImages": [
-                "foundation130N1.webp",
+                "foundation460W1.webp",
                 "foundation130N2.webp",
                 "foundation130N3.webp",
                 "foundation130N4.webp"
@@ -472,7 +472,7 @@
               "name": "560W",
               "shadeImage": "foundationShade5.avif",
               "productImages": [
-                "foundation140C1.webp",
+                "foundation560W1.webp",
                 "foundation140C2.webp",
                 "foundation140C3.webp",
                 "foundation140C4.webp"

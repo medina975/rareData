@@ -430,6 +430,7 @@
           "shades": [
             {
               "name": "100W",
+              "skin": "light",
               "shadeImage": "foundationShade1.avif",
               "productImages": [
                 "foundation100W1.webp",
@@ -440,6 +441,7 @@
             },
             {
               "name": "230N",
+              "skin": "lightMedium",
               "shadeImage": "foundationShade2.avif",
               "productImages": [
                 "foundation230N1.webp",
@@ -450,6 +452,7 @@
             },
             {
               "name": "380W",
+              "skin": "medium",
               "shadeImage": "foundationShade3.avif",
               "productImages": [
                 "foundation380W1.webp",
@@ -460,6 +463,7 @@
             },
             {
               "name": "460W",
+              "skin": "mediumDeep",
               "shadeImage": "foundationShade4.avif",
               "productImages": [
                 "foundation460W1.webp",
@@ -470,6 +474,7 @@
             },
             {
               "name": "560W",
+              "skin": "deep",
               "shadeImage": "foundationShade5.avif",
               "productImages": [
                 "foundation560W1.webp",

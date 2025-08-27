@@ -1138,5 +1138,78 @@
   { "id": 17, "image": "slider17.avif", "alt": "Slider17" },
   { "id": 18, "image": "slider18.avif", "alt": "Slider18" },
   { "id": 19, "image": "slider19.avif", "alt": "Slider19" }
+], 
+"users": [
+  {
+    "id":1,
+    "gmail":"medina@gmail.com",
+    "password":"nihatyaxsi",
+    "basket":[
+
+    ]
+
+  }
+],
+"shadeFinder":[
+  {
+    "name": "light",
+    "images": [
+      "light1.webp",
+      "light2.webp",
+      "light3.webp",
+      "light4.webp",
+      "light5.webp",
+      "light6.webp"
+    ]
+  }, 
+  {
+    "name": "lightMedium",
+    "images": [
+      "lightM1.webp",
+      "lightM2.jpg",
+      "lightM3.webp",
+      "lightM4.webp",
+      "lightM5.webp",
+      "lightM6.jpg"
+    ]
+
+  },
+  {
+    "name": "medium",
+    "images": [
+      "medium1.jpg",
+      "medium2.jpg",
+      "medium3.webp",
+      "medium4.jpg",
+      "medium5.webp",
+      "medium6.jpg"
+    ]
+
+  },
+  {
+    "name": "mediumDeep",
+    "images": [
+      "mediumD1.webp",
+      "mediumD2.jpg",
+      "mediumD3.webp",
+      "mediumD4.webp",
+      "mediumD5.webp",
+      "mediumD6.jpg"
+    ]
+
+  },
+  {
+    "name": "deep",
+    "images": [
+      "deep1.jpg",
+      "deep2.webp",
+      "deep3.webp",
+      "deep4.webp",
+      "deep5.webp",
+      "deep6.webp"
+    ]
+
+  }
+
 ]
 }

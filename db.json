@@ -1147,7 +1147,9 @@
 "users": [
   {
     "id":1,
-    "gmail":"medina@gmail.com",
+    "firstName": "qaraci",
+    "lastName": "kerimov",
+    "email":"medina@gmail.com",
     "password":"nihatyaxsi",
     "basket":[
 

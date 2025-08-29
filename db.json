@@ -1216,5 +1216,16 @@
 
   }
 
+],
+"impactSlider":[
+  {"img": "impactP1.jpg", "name": "Tramaine EL-Amin", "infa": "VP, Mental Health First Aid USA, National Council for Behavioral Health"},
+  {"img": "impactP2.jpg", "name": "Christine M. Crawford", "infa": "Associate Medical Officer for NAMI"},
+  {"img": "impactP3.jpg", "name": "Elisha London", "infa": "Founder & CEO, Prospira Global"},
+  {"img": "impactP4.jpg", "name": "Dr. Jane Smith, MD", "infa": "Clinical Psychologist and CEO, National Alliance for Hispanic Health"},
+  {"img": "impactP5.webp", "name": "Dr. Jessi Gold, MD, MS", "infa": "Psychiatrist and Chief Wellness Officer, University of Tennessee System"},
+  {"img": "impactP6.jpg", "name": "Justin Tranter", "infa": "Singer, Songwriter and Activist"},
+  {"img": "impactP7.jpg", "name": "Adriana Alejandre", "infa": "Founder of Latinx Therapy, Licensed Trauma Therapist"},
+  {"img": "impactP8.webp", "name": "Dr. Marc Brackett, PhD", "infa": "Founder and Director, Yale Center for Emotional Intelligence; Author, Permission to Feel"},
+  {"img": "impactP8.webp", "name": "Dr. Scott L. Rauch, MD", "infa": "President and Psychiatrist in Chief for McLean Hospital"}
 ]
 }
